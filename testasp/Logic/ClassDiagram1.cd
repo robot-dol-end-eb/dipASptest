@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="testasp.Logic.AddProducts">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\AddProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testasp.Logic.ExceptionUtility">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\ExceptionUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testasp.Logic.RoleActions">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\RoleActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="testasp.Logic.ShoppingCartActions">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="testasp.Logic.ShoppingCartActions.ShoppingCartUpdates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Logic\ShoppingCartActions.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAxAAAAjAAAAAAGAAAAEAAAAAAAIAECAAAAAAAACA=</HashCode>
+      <FileName>Logic\ShoppingCartActions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

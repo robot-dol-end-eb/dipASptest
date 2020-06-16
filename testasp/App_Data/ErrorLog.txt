@@ -1,0 +1,106 @@
+********** 07.04.2020 21:57:06 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 07.04.2020 21:59:50 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:08:40 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:12:46 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:13:36 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:15:49 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:16:16 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:28:12 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:43:17 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: Error Page
+Stack Trace: 
+********** 07.04.2020 22:44:02 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 07.04.2020 23:26:36 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 07.04.2020 23:28:58 **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 07.04.2020 23:31:01 **********
+Inner Exception Type: System.InvalidOperationException
+Inner Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Inner Source: testasp
+Inner Stack Trace: 
+   в testasp._Default.Page_Load(Object sender, EventArgs e) в C:\Users\VAS\Desktop\testasp-master\testasp\Default.aspx.cs:строка 14
+   в System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   в System.Web.UI.Control.OnLoad(EventArgs e)
+   в System.Web.UI.Control.LoadRecursive()
+   в System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+Exception Type: System.Web.HttpUnhandledException
+Exception: Выдано исключение типа "System.Web.HttpUnhandledException".
+Source: Application_Error - Global.asax
+Stack Trace: 
+   в System.Web.UI.Page.HandleError(Exception e)
+   в System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   в System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   в System.Web.UI.Page.ProcessRequest()
+   в System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   в System.Web.UI.Page.ProcessRequest(HttpContext context)
+   в ASP.default_aspx.ProcessRequest(HttpContext context)
+   в System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   в System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   в System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+********** 07.04.2020 23:33:41 **********
+Exception Type: System.InvalidOperationException
+Exception: An InvalidOperationException occurred in the Page_Load handler on the Default.aspx page.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   в testasp._Default.Page_Load(Object sender, EventArgs e) в C:\Users\VAS\Desktop\testasp-master\testasp\Default.aspx.cs:строка 14
+   в System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   в System.Web.UI.Control.OnLoad(EventArgs e)
+   в System.Web.UI.Control.LoadRecursive()
+   в System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 08.04.2020 0:01:08 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 08.04.2020 0:04:49 **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 

@@ -1,0 +1,325 @@
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\testasp.dll.config
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\testasp.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\testasp.pdb
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csc.exe
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csc.exe.config
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csc.rsp
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csi.exe
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csi.exe.config
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\csi.rsp
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.AppContext.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Console.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.IO.Compression.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Claims.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.ValueTuple.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\vbc.exe
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\vbc.exe.config
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\vbc.rsp
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\VBCSCompiler.exe
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Antlr3.Runtime.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\EntityFramework.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\EntityFramework.SqlServer.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Newtonsoft.Json.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Owin.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\System.Web.Optimization.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\System.Web.Providers.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\WebGrease.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\System.Web.Optimization.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Newtonsoft.Json.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Antlr3.Runtime.pdb
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\EntityFramework.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\EntityFramework.SqlServer.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\System.Web.Providers.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\EntityFramework.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\obj\Debug\testasp.csprojAssemblyReference.cache
+C:\Users\VAS\Desktop\prog\testasp\testasp\obj\Debug\testasp.csproj.CopyComplete
+C:\Users\VAS\Desktop\prog\testasp\testasp\obj\Debug\testasp.dll
+C:\Users\VAS\Desktop\prog\testasp\testasp\obj\Debug\testasp.pdb
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\testasp.dll.config
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\testasp.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\testasp.pdb
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csc.exe
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csc.exe.config
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csc.rsp
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csi.exe
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csi.exe.config
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\csi.rsp
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.AppContext.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Console.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.IO.Compression.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Claims.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.ValueTuple.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\vbc.exe
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\vbc.exe.config
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\vbc.rsp
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\VBCSCompiler.exe
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Antlr3.Runtime.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\EntityFramework.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\EntityFramework.SqlServer.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Newtonsoft.Json.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Owin.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\System.Web.Optimization.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\System.Web.Providers.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\WebGrease.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\System.Web.Optimization.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Newtonsoft.Json.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Antlr3.Runtime.pdb
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\EntityFramework.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\EntityFramework.SqlServer.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\System.Web.Providers.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\EntityFramework.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\obj\Debug\testasp.csproj.CopyComplete
+C:\Users\VAS\Desktop\testasp-master\testasp\obj\Debug\testasp.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\obj\Debug\testasp.pdb
+C:\Users\VAS\Desktop\testasp-master\testasp\bin\Elmah.dll
+C:\Users\VAS\Desktop\testasp-master\testasp\obj\Debug\testasp.csprojAssemblyReference.cache
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\testasp.dll.config
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\testasp.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\testasp.pdb
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csc.exe
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csc.exe.config
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csc.rsp
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csi.exe
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csi.exe.config
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\csi.rsp
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.AppContext.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Console.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.IO.Compression.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Claims.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.ValueTuple.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\vbc.exe
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\vbc.exe.config
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\vbc.rsp
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\VBCSCompiler.exe
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Antlr3.Runtime.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Elmah.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\EntityFramework.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\EntityFramework.SqlServer.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Newtonsoft.Json.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Owin.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\System.Web.Optimization.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\System.Web.Providers.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\WebGrease.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\System.Web.Optimization.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Newtonsoft.Json.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Antlr3.Runtime.pdb
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\EntityFramework.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\EntityFramework.SqlServer.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\System.Web.Providers.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\EntityFramework.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\obj\Debug\testasp.csproj.CopyComplete
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\obj\Debug\testasp.dll
+C:\Users\VAS\Desktop\практос\Новая папка\testasp-master\testasp\obj\Debug\testasp.pdb
